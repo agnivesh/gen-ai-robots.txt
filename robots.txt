@@ -32,6 +32,9 @@ Disallow: /
 User-Agent: PerplexityBot
 Disallow: /
 
+User-agent: Perplexity-User
+Disallow: /
+
 # Anthropic AI
 # https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
 User-agent: ClaudeBot
@@ -60,12 +63,4 @@ Disallow: /
 # Facebook (FacebookBot)
 # https://developers.facebook.com/docs/sharing/bot/
 User-agent: FacebookBot
-Disallow: /
-
-# Perplexity (FacebookBot)
-# https://docs.perplexity.ai/guides/bots
-User-agent: PerplexityBot
-Disallow: /
-
-User-agent: Perplexity-User
 Disallow: /
