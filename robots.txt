@@ -61,3 +61,11 @@ Disallow: /
 # https://developers.facebook.com/docs/sharing/bot/
 User-agent: FacebookBot
 Disallow: /
+
+# Perplexity (FacebookBot)
+# https://docs.perplexity.ai/guides/bots
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
